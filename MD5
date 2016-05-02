@@ -1,0 +1,10 @@
+0b9c46b32e788bcba6c5794a25f848c3 *DESCRIPTION
+f7a6a560eb7649975b8787e7fff77f8c *NAMESPACE
+a2b29f907bef8adb69699d72138d34c2 *R/heal_data.R
+095dc8892745160b00099fed0ea329f0 *R/impute_PSF.R
+51b4f013e3b5a17323a8a84632f40f6d *R/insert_patch.R
+7d4d7ff9e96619a8ae3c4fa52fe0a587 *R/missing_patch.R
+73b689f9d7c21971fc3f5149f0945b3f *man/heal_data.Rd
+4a828fb54f2620ace03ed019bb3a51c1 *man/impute_PSF.Rd
+fbcbff1435295bfac0be2cc9562e809c *man/insert_patch.Rd
+2e15f91711abb3c07385acdfbf958df2 *man/missing_patch.Rd
